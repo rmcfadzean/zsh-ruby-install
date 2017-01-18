@@ -12,7 +12,7 @@ Heavily inspired by [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 ### Installation
 
 #### ZPlug
-`zplug "wonderbread/zsh-ruby-install"`
+`zplug "rmcfadzean/zsh-ruby-install"`
 
 
 ### Upgrading ruby-install
